@@ -7,3 +7,4 @@ Ok, when do we start?
 When do you want to start?
 Now
 No we need a python file. It's a better programing language.
+Ok, but I might struggle learning python in time to code up this app.
